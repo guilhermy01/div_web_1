@@ -1,0 +1,28 @@
+body{
+    font-family: cursive;
+    font-size: 16px;
+    color: white;
+}
+
+h1{
+    background-color: tomato;
+    color: white;
+    margin: 50px 200px 80px 150px;
+    text-align: center;
+
+    /* margin-top: 50px;
+    margin-right: 200px;
+    margin-bottom: 80px;
+    margin-left: 150px; */
+}
+p{
+    background-color: darkcyan;
+}
+.centralizado{
+    text-align: center;
+    font-size: 25px;
+    width: 300px;
+    margin: auto;
+    background-color: darkorange;
+
+}

@@ -1,0 +1,12 @@
+table {
+    width: 80%;
+    background-color: cornflowerblue;
+}
+table , th, td {
+    border: 1px solid black;
+
+}
+.branco { width: 100; background-color: white;
+}
+.verde { background-color: green;
+}

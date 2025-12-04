@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    width: 626px;
+    height: 60px;
+    background-color: #2a5889;
+}
+.banner{
+    width: 626px;
+    height: 418px;
+    background-image: url(imagem/jovem-1187-93940.jpg);
+}
